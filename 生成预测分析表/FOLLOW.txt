@@ -1,0 +1,39 @@
+for循环 for id if read return while write } 
+while循环 for id if read return while write } 
+变量 != % && ( ) * + ++ , - -- / ; < <= = == > >= ] || 
+变量闭包 ; 
+标志符 != % && ( ) * + ++ , - -- / ; < <= = == > >= [ ] || 
+表达式 ) , ; 
+参数 ) , 
+参数闭包 ) 
+参数列表 ) 
+参数声明 ) 
+读语句 for id if read return while write } 
+多个数据 } 
+否则语句 for id if read return while write } 
+赋初值 ) , ; 
+赋值函数 ! ( for id if number read return string while write } 
+赋值或函数调用 ! ( for id if number read return string while write } 
+函数定义 # 
+函数返回 for id if read return while write } 
+函数块 } 
+函数块闭包 } 
+后缀表达式 ) 
+后缀运算符 ) 
+类型 id 
+逻辑运算符 ( id number string 
+声明 ) , 
+声明闭包 ) 
+声明语句 for id if read return type while write } 
+声明语句闭包 for id if read return while write } 
+数字 != % && ) * + , - / ; < <= == > >= ] || } 
+数字闭包 } 
+数组下标 != % && ( ) * + ++ , - -- / ; < <= = == > >= ] || 
+条件语句 for id if read return while write } 
+项 ) , ; 
+写语句 for id if read return while write } 
+因式 != % && ) * + , - / ; < <= == > >= ] || 
+因式递归 != && ) + , - ; < <= == > >= || 
+因子 != && ) + , - ; < <= == > >= || 
+右值 ) , ; 
+字符串 != % && ) * + , - / ; < <= == > >= ] || 

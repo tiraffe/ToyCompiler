@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1434445541 source:c:\users\administrator\desktop\云同步\workspace\编译原理实验\词法-语法ll(1)分析程序\main.cpp
+	"IntermediateCode.h"
+
+1435562481 c:\users\administrator\desktop\云同步\workspace\编译原理实验\词法-语法ll(1)分析程序\include\lexicalanalyzer.h
+	<bits/stdc++.h>
+
+1434619198 source:c:\users\administrator\desktop\云同步\workspace\编译原理实验\词法-语法ll(1)分析程序\src\lexicalanalyzer.cpp
+	"LexicalAnalyzer.h"
+
+1434619075 source:c:\users\administrator\desktop\云同步\workspace\编译原理实验\词法-语法ll(1)分析程序\src\grammaranalyzer.cpp
+	"GrammarAnalyzer.h"
+
+1435237879 c:\users\administrator\desktop\云同步\workspace\编译原理实验\词法-语法ll(1)分析程序\include\grammaranalyzer.h
+	"LexicalAnalyzer.h"
+
+1431082288 source:c:\documents and settings\administrator\桌面\workspace\编译原理实验\词法-语法ll(1)分析程序\main.cpp
+	"GrammarAnalyzer.h"
+
+1430198254 c:\documents and settings\administrator\桌面\workspace\编译原理实验\词法-语法ll(1)分析程序\include\grammaranalyzer.h
+	"LexicalAnalyzer.h"
+
+1430386438 c:\documents and settings\administrator\桌面\workspace\编译原理实验\词法-语法ll(1)分析程序\include\lexicalanalyzer.h
+	<bits/stdc++.h>
+
+1431081112 source:c:\documents and settings\administrator\桌面\workspace\编译原理实验\词法-语法ll(1)分析程序\src\grammaranalyzer.cpp
+	"GrammarAnalyzer.h"
+
+1430386805 source:c:\documents and settings\administrator\桌面\workspace\编译原理实验\词法-语法ll(1)分析程序\src\lexicalanalyzer.cpp
+	"LexicalAnalyzer.h"
+
+1435381074 c:\users\administrator\desktop\云同步\workspace\编译原理实验\词法-语法ll(1)分析程序\include\intermediatecode.h
+	"GrammarAnalyzer.h"
+
+1435381082 source:c:\users\administrator\desktop\云同步\workspace\编译原理实验\词法-语法ll(1)分析程序\src\intermediatecode.cpp
+	"IntermediateCode.h"
+
+1434445541 source:h:\workspace\百度云同步盘\workspace\编译原理实验\词法-语法ll(1)分析程序\main.cpp
+	"IntermediateCode.h"
+
+1435117575 h:\workspace\百度云同步盘\workspace\编译原理实验\词法-语法ll(1)分析程序\include\intermediatecode.h
+	"GrammarAnalyzer.h"
+
+1434445511 h:\workspace\百度云同步盘\workspace\编译原理实验\词法-语法ll(1)分析程序\include\grammaranalyzer.h
+	"LexicalAnalyzer.h"
+
+1434449690 h:\workspace\百度云同步盘\workspace\编译原理实验\词法-语法ll(1)分析程序\include\lexicalanalyzer.h
+	<bits/stdc++.h>
+
+1434619075 source:h:\workspace\百度云同步盘\workspace\编译原理实验\词法-语法ll(1)分析程序\src\grammaranalyzer.cpp
+	"GrammarAnalyzer.h"
+
+1434619198 source:h:\workspace\百度云同步盘\workspace\编译原理实验\词法-语法ll(1)分析程序\src\lexicalanalyzer.cpp
+	"LexicalAnalyzer.h"
+
+1434445551 source:h:\workspace\百度云同步盘\workspace\编译原理实验\词法-语法ll(1)分析程序\src\intermediatecode.cpp
+	"IntermediateCode.h"
+
+1434445541 source:c:\users\administrator\desktop\编译原理读书工程报告\词法-语法ll(1)分析程序\main.cpp
+	"IntermediateCode.h"
+
+1435381074 c:\users\administrator\desktop\编译原理读书工程报告\词法-语法ll(1)分析程序\include\intermediatecode.h
+	"GrammarAnalyzer.h"
+
+1435237879 c:\users\administrator\desktop\编译原理读书工程报告\词法-语法ll(1)分析程序\include\grammaranalyzer.h
+	"LexicalAnalyzer.h"
+
+1435562481 c:\users\administrator\desktop\编译原理读书工程报告\词法-语法ll(1)分析程序\include\lexicalanalyzer.h
+	<bits/stdc++.h>
+
+1434619075 source:c:\users\administrator\desktop\编译原理读书工程报告\词法-语法ll(1)分析程序\src\grammaranalyzer.cpp
+	"GrammarAnalyzer.h"
+
+1435381082 source:c:\users\administrator\desktop\编译原理读书工程报告\词法-语法ll(1)分析程序\src\intermediatecode.cpp
+	"IntermediateCode.h"
+
+1434619198 source:c:\users\administrator\desktop\编译原理读书工程报告\词法-语法ll(1)分析程序\src\lexicalanalyzer.cpp
+	"LexicalAnalyzer.h"
+

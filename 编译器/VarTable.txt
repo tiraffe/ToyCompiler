@@ -1,0 +1,25 @@
+      属性      名称      类型        值
+================================================
+      temp       #11    string
+      temp       #15       int
+      temp       #18       int
+      temp       #19       int
+      temp       #20       int
+      temp       #22       int
+      temp       #25       int
+     const       *12    string     hello
+     const       *13       int         2
+     const       *14       int       100
+     const       *16       int         1
+     const       *17       int         2
+     const       *21       int         0
+     const       *23       int         0
+     const       *24       int         1
+       var         a    double
+       var         b    double
+       var         c    double
+       var         d    double
+       var         i       int
+       var   isPrime       int
+       var         j       int
+       var         s    string
